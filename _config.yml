@@ -1,11 +1,11 @@
 encoding: utf-8
 
 # SEO相关信息
-title: jima Blog
+title: Ji's Blog
 description: Ji Ma的个人博客
 keywords: Ji Ma,Blog,Java,Html,JavaScript
 author: Ji Ma
-footerText: 'Copyright © 2022 浙ICP备2022002584号-1'
+footerText: Copyright © 2022 [浙ICP备2022002584号-1](https://beian.miit.gov.cn/)
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html

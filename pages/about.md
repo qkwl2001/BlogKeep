@@ -3,7 +3,6 @@ layout: mypost
 title: 关于我
 ---
 
-> Hello 陌生人，欢迎访问 TMaize Blog
 
 参见 [个人主页](http://info.jimacs.com)
 
